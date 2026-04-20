@@ -94,7 +94,7 @@ I build **high-performance backend systems** designed for **scale, reliability, 
 ## 📫 Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/joy-barman/
-* 🌐 Portfolio: https://joybarman.github.io/
+* 🌐 Portfolio: https://joybarman.github.io/Me-Portfolio/
 * 📧 Email: [barmanjoy88@gmail.com](mailto:barmanjoy88@gmail.com)
 
 ---
